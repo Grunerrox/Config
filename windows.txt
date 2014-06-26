@@ -1,0 +1,18 @@
+Windows XP
+  == Updates
+   Service Pack 3
+   .Net framework
+  == Programs
+   Visual Studio 2008
+   Python
+   IDA Pro
+   Immunity Debugger
+   OllyDbg
+   Masm
+   WinSCP
+   Putty
+   PE Explorer
+   Cygwin
+   Sysinternals Suite
+   Red Gate Reflector
+   010 Editor
